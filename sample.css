@@ -1,0 +1,32 @@
+.design{
+    height: 378px;
+    width: 48%;
+    background: rgb(0, 255, 166);
+    border: 1px solid black;
+    display:inline-flex;
+    padding: 10px;
+    border-radius: 7px;
+    margin: 5px;
+    
+}
+.parent
+{
+    height: 410px;
+    width:98%;
+    background: black;
+    border-radius: 30px;
+
+}
+label{
+    color: rgba(188, 6, 127, 0.734);
+    font-size: 25px;
+    margin-left: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: linear-gradient(90deg,red,blue);
+    
+
+}
+embed{
+    width: 300px;
+    height: 150px;
+}
